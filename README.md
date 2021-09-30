@@ -13,3 +13,8 @@ Gosto muito da área de programação em geral, cada vez mais estou tentando exp
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 
 ## GITHUB
+<div align="center">
+  <a href="https://github.com/Guilherme-silva-santos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-silva-santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-silva-santos&layout=compact&langs_count=7&theme=dark"/>
+</div>
