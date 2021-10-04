@@ -3,7 +3,7 @@ Olá , meu nome é Guilherme Silva👋
 
 - 😄 Algumas curiosidades sobre mim:
 
-Estou cursando Ensino Médio Estou cursando Técnico em Desenvolvimento de Sistema na Etec - Raposo Tavares;
+Estou cursando Ensino Médio Técnico em Desenvolvimento de Sistema na Etec - Raposo Tavares;
 
 Gosto muito da área de programação em geral, cada vez mais estou tentando expandir meus conhecimentos.
 
