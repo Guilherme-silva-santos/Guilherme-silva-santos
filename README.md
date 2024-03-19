@@ -1,15 +1,15 @@
-Olá , meu nome é Guilherme Silva👋
+Hello , my name is Guilherme Silva👋
 
 
-- 😄 Algumas curiosidades sobre mim:
+- 😄 Some fun facts about me:
 
-Formado em Ensino Médio Técnico em Desenvolvimento de Sistema na Etec - Raposo Tavares;
+Graduated in Technical High School in System Development at Etec - Raposo Tavares;
 
-Estou cursando Faculdade de Análise e Desenvolvimento de Sistema na Faculdade Impacta;
+I am studying the Faculty of System Analysis and Development at FMU (Centro Universitário das Faculdades Metropolitanas Unidas);
 
-Gosto muito da área de programação em geral, cada vez mais estou tentando expandir meus conhecimentos.
+I am currently a systems development intern at Senai Jandira
 
-Em meu TCC eu juntamente com meu grupo, estamos criando um sensor de segurança para piscinas que pode ser controlado via smartphone e a comercialização do mesmo sera feita através de nosso site. 
+I really like the programming area in general, I'm increasingly trying to expand my knowledge.
 
 <br/>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
