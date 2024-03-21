@@ -12,6 +12,8 @@ Hello , my name is Guilherme Silva👋
 
   $ I really like the programming area in general, I'm increasingly trying to expand my knowledge.
 
+  $ Currently focused on specializing in Mobile and front-end development
+
 ## GITHUB
 <div align="center">
   <a href="https://github.com/Guilherme-silva-santos">
