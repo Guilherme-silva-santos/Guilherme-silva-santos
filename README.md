@@ -39,6 +39,7 @@ Hello , my name is Guilherme Silva👋
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+![Markdown]([https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg))
 
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
