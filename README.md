@@ -29,10 +29,6 @@ Hello , my name is Guilherme Silva👋
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-silva-santos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<p align="right">
-.. working on few more projects 😉 </p>
-
-
 ## Tech Stack 💻
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
