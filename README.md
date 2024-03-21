@@ -22,7 +22,7 @@ Hello , my name is Guilherme Silva👋
 </div>
 
 <details>
-<summary><h4>💻Tech Stack</h4></summary>
+<summary><p>💻Tech Stack</p></summary>
   
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
