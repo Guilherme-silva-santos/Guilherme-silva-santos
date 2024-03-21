@@ -22,6 +22,7 @@ Hello , my name is Guilherme Silva👋
 </div>
 
 ## Tech Stack 💻
+<div display="flex">
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
@@ -32,6 +33,9 @@ Hello , my name is Guilherme Silva👋
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/-ReactNative-000?style=for-the-badge&logo=react)
+  
+</div>
+
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
