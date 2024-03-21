@@ -31,19 +31,12 @@ Hello , my name is Guilherme Silva👋
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-
-#### CSS Framework/Library/Pre-processors
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
-![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
+![React Native](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 
-#### Mobile Development
-![React Native](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-
 #### Database/State
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MySQL](https://shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
