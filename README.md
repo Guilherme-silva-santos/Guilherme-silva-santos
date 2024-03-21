@@ -71,3 +71,6 @@ Hello , my name is Guilherme Silva👋
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
+#### Others
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
