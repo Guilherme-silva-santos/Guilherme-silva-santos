@@ -53,6 +53,9 @@ Hello , my name is Guilherme Silva👋
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 
+#### Mobile Development
+![React Native](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+
 #### Database/State
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
