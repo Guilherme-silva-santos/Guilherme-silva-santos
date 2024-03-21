@@ -22,7 +22,9 @@ Hello , my name is Guilherme Silva👋
 </div>
 
 ## Tech Stack 💻
-#### Languages
+
+<details>
+  #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
@@ -31,17 +33,39 @@ Hello , my name is Guilherme Silva👋
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/-ReactNative-000?style=for-the-badge&logo=react)
+
+#### CSS Framework/Library/Pre-processors
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
+![PostCSS](https://img.shields.io/badge/-PostCSS-000?style=for-the-badge&logo=postcss)
+![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 
+#### Mobile Development
+![React Native](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+
 #### Database/State
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MySQL](https://shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 
+#### Web Hosting
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+
+#### Package Manager
+![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
+
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
 #### Others
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+</details>
