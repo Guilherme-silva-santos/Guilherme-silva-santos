@@ -31,7 +31,7 @@ Hello , my name is Guilherme Silva👋
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/-ReactNative-000?style=for-the-badge&logo=react)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
