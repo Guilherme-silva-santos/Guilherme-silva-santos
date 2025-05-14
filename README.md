@@ -27,6 +27,7 @@ Hello , my name is Guilherme Silva👋
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Typescript](https://shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Go-Lang](https://shields.io/badge/Go-000?style=for-the-badge&logo=Go)
 
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
