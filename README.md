@@ -8,7 +8,7 @@ Hello , my name is Guilherme Silva👋
 
   $ I earned a degree in System Analysis and Development from FMU (Centro Universitário das Faculdades Metropolitanas Unidas).
 
-  $ Currently working as a systems development Primi Tecnologia;
+  $ Currently working as a full-stack developer at Primi Tecnologia;
 
   $ I really like the programming area in general, I'm increasingly trying to expand my knowledge.
 
