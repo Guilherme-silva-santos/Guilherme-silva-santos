@@ -2,13 +2,13 @@ Hello , my name is Guilherme Silva👋
 
 😄 Some fun facts about me:
 
-  $ I'm 20 years old;
+  $ I'm 21 years old;
 
   $ Graduated in Technical High School in System Development at Etec - Raposo Tavares;
 
-  $ I am studying the Faculty of System Analysis and Development at FMU (Centro Universitário das Faculdades Metropolitanas Unidas);
+  $ I earned a degree in System Analysis and Development from FMU (Centro Universitário das Faculdades Metropolitanas Unidas).
 
-  $ Currently working as a systems development intern at Senai Jandira;
+  $ Currently working as a systems development Primi Tecnologia;
 
   $ I really like the programming area in general, I'm increasingly trying to expand my knowledge.
 
